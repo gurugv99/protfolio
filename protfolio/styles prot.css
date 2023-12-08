@@ -1,0 +1,74 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://img.freepik.com/premium-vector/abstract-technology-digital-background_41814-262.jpg?w=2000);
+    
+    background-size: auto;
+}
+
+header {
+    
+background-color: #1b1b1b;
+    color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    max-width: 15%;
+    height: auto;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #05c5ff;
+    text-shadow: #00ffff;
+    font-size: x-large;
+    text-decoration: underline;
+}
+h3{
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    font-size: x-large;
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #000000;
+    color: #00ffdd;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+P{
+    color: rgb(156, 144, 90);
+    font-size: larger;
+    font-size: x-large;
+}
+pre.scroll {
+    overflow-x:scroll;
+    overflow-y: scroll;
+}
+pre{
+    font-size: x-large;
+}
+
